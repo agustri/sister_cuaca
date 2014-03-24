@@ -11,13 +11,13 @@ dict_bulan = {
 	"Maret" 	: 3,
 	"April" 	: 4,
 	"Mei"		: 5,
-	"Juni"		: 5,
-	"Juli"		: 5,
-	"Agustus"	: 5,
-	"September"	: 5,
-	"Oktober"	: 5,
-	"November"	: 5,
-	"Desember"	: 5
+	"Juni"		: 6,
+	"Juli"		: 7,
+	"Agustus"	: 8,
+	"September"	: 9,
+	"Oktober"	: 10,
+	"November"	: 11,
+	"Desember"	: 12
 }
 
 print "TEST : ", dict_bulan["Maret"]
